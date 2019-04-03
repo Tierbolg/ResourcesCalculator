@@ -1,0 +1,14 @@
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/bin/Debug/netcoreapp2.2/ResourcesCalculator.deps.json
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/bin/Debug/netcoreapp2.2/ResourcesCalculator.runtimeconfig.json
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/bin/Debug/netcoreapp2.2/ResourcesCalculator.runtimeconfig.dev.json
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/bin/Debug/netcoreapp2.2/ResourcesCalculator.dll
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/bin/Debug/netcoreapp2.2/ResourcesCalculator.pdb
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/obj/Debug/netcoreapp2.2/ResourcesCalculator.csprojAssemblyReference.cache
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/obj/Debug/netcoreapp2.2/ResourcesCalculator.csproj.CoreCompileInputs.cache
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/obj/Debug/netcoreapp2.2/ResourcesCalculator.RazorAssemblyInfo.cache
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/obj/Debug/netcoreapp2.2/ResourcesCalculator.RazorAssemblyInfo.cs
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/obj/Debug/netcoreapp2.2/ResourcesCalculator.AssemblyInfoInputs.cache
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/obj/Debug/netcoreapp2.2/ResourcesCalculator.AssemblyInfo.cs
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/obj/Debug/netcoreapp2.2/ResourcesCalculator.RazorTargetAssemblyInfo.cache
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/obj/Debug/netcoreapp2.2/ResourcesCalculator.dll
+/home/gil/Documentos/Proyectos/ResourcesCalculator/ResourcesCalculator/ResourcesCalculator/obj/Debug/netcoreapp2.2/ResourcesCalculator.pdb
